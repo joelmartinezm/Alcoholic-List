@@ -22,6 +22,6 @@
 
 ### Navegación de la aplicación:
 
-URL del hosting utilizado (firebase, netlify, cdmon, otros)
-Esta aplicación tambien esta en formato apk.
+<p>URL del hosting utilizado (firebase, netlify, cdmon, otros)</p>
+<p>Esta aplicación tambien esta en formato apk.</p>
 
