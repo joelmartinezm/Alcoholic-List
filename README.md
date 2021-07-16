@@ -3,7 +3,7 @@
 ## Documento del Proyecto
 
 - Tema elegido: cockteles.
-- Justificación: es una herramienta para facilitar la elaboracion de cockteles y con la posibilidad de poder almacenarlos y tener localizados en un sitio concreto.
+- Justificación del tema: es una herramienta para facilitar la elaboracion de cockteles y con la posibilidad de poder almacenarlos y tener localizados en un sitio concreto.
 - Miembro/miembros del equipo: Joel Martinez.
 
 
