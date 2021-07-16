@@ -8,8 +8,9 @@
 
 
 
-### Pantallas
+## Diseño y Navegación de la aplicación
 
+### Diseño de pantallas:
 <ul>
   <li>Splash Screen</li>
    <li>Login</li>
@@ -18,4 +19,9 @@
    <li>Lista General</li>
   <li>Detalle</li>
 </ul>
-    
+
+### Navegación de la aplicación:
+
+URL del hosting utilizado (firebase, netlify, cdmon, otros)
+Esta aplicación tambien esta en formato apk.
+
