@@ -12,7 +12,6 @@
 
 ### Diseño de pantallas:
 <ul>
-  <li>Splash Screen</li>
    <li>Login</li>
    <li>Register</li>
    <li>Perfil Usuario</li>
