@@ -1,0 +1,25 @@
+<main>
+  <section class="form-section">
+
+    <h2>Register</h2>
+
+    <section class="form">
+      <form [formGroup]='formGroup'>
+
+        <label>Email</label>
+        <input type="email" formControlName="email">
+
+        <label>Contraseña</label>
+        <input type="paswword" formControlName="password">
+
+        <label>Repetir Contraseña</label>
+        <input type="paswword" formControlName="confirmPassword">
+
+        <button type="submit" (click)="submit()">Register</button>
+        <p>Have an account? <a routerLink="/login">Click here to sign in</a></p>
+      </form>
+      </section>
+    </section>
+    <section class="image-cocktail">
+    </section>
+  </main>

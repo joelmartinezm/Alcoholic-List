@@ -1,0 +1,27 @@
+ul{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  height: 15vh;
+  max-height: 80px;
+  min-height: 40px;
+  width: 100%;
+  background-color: #dbdbdb;
+  // border-top: solid 1px #333;
+}
+
+ul>li {
+  list-style: none;
+  font-size: 24px;
+}
+
+a{
+  text-decoration: none;
+  color: #8d8d8d;
+
+}
